@@ -44,18 +44,6 @@ O trabalho foi desenvolvido como parte de um projeto em grupo, onde todos os mem
 
 ---
 
-## Esquema de Conexões
-### Transmissor (Sender)
-- Conecte o sensor DHT11 ao ESP32 Heltec:
-  - Pino de dados do DHT11 → GPIO4 do ESP32.
-  - VCC do DHT11 → 3.3V do ESP32.
-  - GND do DHT11 → GND do ESP32.
-
-### Receptor (Receiver)
-- O receptor não precisa de conexões adicionais, pois apenas recebe os dados via LoRa e os exibe no monitor serial.
-
----
-
 ## Como Executar o Projeto
 ### Transmissor (Sender)
 1. Carregue o código `sender.ino` no ESP32 Heltec que atuará como transmissor.
