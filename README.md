@@ -74,16 +74,6 @@ O trabalho foi desenvolvido como parte de um projeto em grupo, onde todos os mem
 
 ---
 
-## Contribuições
-Este projeto foi desenvolvido em grupo, com contribuições de todos os membros. As principais tarefas foram divididas da seguinte forma:
-- **Integração do sensor DHT11**: [Nome do membro].
-- **Configuração da comunicação LoRa**: [Nome do membro].
-- **Desenvolvimento do código do transmissor**: [Nome do membro].
-- **Desenvolvimento do código do receptor**: [Nome do membro].
-- **Testes e depuração**: [Nome do membro].
-
----
-
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o código.
 
@@ -91,13 +81,12 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade 
 
 ## Contato
 Para dúvidas ou sugestões, entre em contato com:
-- [Seu Nome] - [seu_email@example.com]
-- [Outro Membro] - [outro_email@example.com]
+- [MAIQUE PEREIRA] - [maique1915@gmail.com]
 
 ---
 
 ## Agradecimentos
-Agradecemos ao professor [Nome do Professor] pela orientação e à equipe pelo trabalho em conjunto.
+Agradecemos ao professor [CRISTIANO DE SOUZA DE CARVALHO] pela orientação e à equipe pelo trabalho em conjunto.
 
 ---
 
